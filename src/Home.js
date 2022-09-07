@@ -19,7 +19,7 @@ import local from './imagem/local.png'
 import logoredonda from './imagem/logoredonda.png'
 import homem from './imagem/homem.png'
 
-function Header(props){
+function Home(props){
     return(
         <header>
             <body> 
@@ -301,9 +301,12 @@ function Header(props){
                             </form>
                     </div>
                 </div>
+                <div className="Parte10">
+                    <p className="copy">Todos os direitos reservados <b>&copy;André Alves e NETLINKS.</b></p>
+                </div>
             </body>    
         </header>
     );
 }
 
-export default Header;
+export default Home;

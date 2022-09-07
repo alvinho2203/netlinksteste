@@ -330,7 +330,7 @@ header{
     height: 60px;
     background: #FFFFFF;
     border: solid;
-    border-radius: 200px; 
+    border-radius: 60px; 
     border-color: #FFFFFF;   
     padding: 23px;
 }
@@ -465,7 +465,7 @@ header{
     position: absolute;
     width: 259px;
     height: 36px;
-    left: 135px;
+    left: 420px;
     top: 1200px;
     font-family: 'Poppins';
     font-style: normal;
@@ -529,7 +529,7 @@ header{
     position: absolute;
     width: 259px;
     height: 36px;
-    left: 135px;
+    left: 420px;
     top: 2800px;
     font-family: 'Poppins';
     font-style: normal;
@@ -580,12 +580,11 @@ header{
 .Parte2{
     position: absolute;
     width: 1518px;
-    height: 915px;
+    height: 1050px;
     left: -4px;
     top: 4800px;
     background-image: url('./imagem/parte2.png');
     background-size: cover;
-
 }
 
 .titParte2{
@@ -827,7 +826,7 @@ header{
     width: 113.77px;
     height: 113.77px;
     left: 400px;
-    top: 780px;
+    top: 760px;
     background: linear-gradient(100.25deg, #3333CC 15.14%, #6B6BF8 87.47%);
     border-radius: 30.7984px;
 }
@@ -876,7 +875,7 @@ header{
     width: 113.77px;
     height: 113.77px;
     left: 950px;
-    top: 780px;
+    top: 760px;
     background: linear-gradient(100.25deg, #3333CC 15.14%, #6B6BF8 87.47%);
     border-radius: 30.7984px;
 }
@@ -933,7 +932,7 @@ header{
     position: absolute;
     width: 443px;
     height: 138px;
-    left: 20px;
+    left: -30px;
     top: 15px;
     font-family: 'Poppins';
     font-style: normal;
@@ -947,7 +946,7 @@ header{
     position: absolute;
     width: 101px;
     height: 36px;
-    left: 150px;
+    left: 100px;
     top: 5px;
     font-family: 'Poppins';
     font-style: normal;
@@ -962,7 +961,7 @@ header{
     position: absolute;
     width: 100px;
     height: 0px;
-    left: 150px;
+    left: 100px;
     top: 60px;
     border: 3px solid #3333CC;
 }
@@ -971,7 +970,7 @@ header{
     position: absolute;
     width: 380px;
     height: 388px;
-    left: 150px;
+    left: 100px;
     top: 240px;
     font-family: 'Poppins';
     font-style: normal;
@@ -1361,9 +1360,9 @@ header{
 .homem{
     position: absolute;
     width: 620px;
-    height: 980px;
+    height: 1000px;
     left: 120px;
-    top: -120px;
+    top: -100px;
 }
 
 .tituloParte9{
@@ -1495,6 +1494,26 @@ text-align: left;
     line-height: 42px;
     text-align: center;
     color: #FFFFFF;
+}
+
+.Parte10{
+    position: absolute;
+    width: 1020px;
+    height: 50px;
+    left: 492px;
+    top: 11270px;
+    background: #FFFFFF;
+    border-radius: 20px 0px 0px 20px;
+}
+
+.copy{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.4039px;
+    line-height: 17px;
+    text-align: center;
+    color: #000000;
 }
 
 
