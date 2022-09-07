@@ -1,5 +1,5 @@
 import React from "react";
-import './Header.css';
+import './Home.css';
 import logo from './imagem/logo.png'
 import mulher from './imagem/mulher.png'
 import lateralmulheresq from './imagem/lateralmulher.png'
