@@ -80,14 +80,14 @@ function Home(props){
                     </div>    
                 </div>
                 <div className="Parte1">
-                    <p className="tituloConteudo"><b className="principalTitulo">Lorem</b>ipsum dolor sit amet</p>
+                    <h1 className="tituloConteudo"><b className="principalTitulo">Lorem</b>ipsum dolor sit amet</h1>
                     
                     <div>
                         <img className="baseConteudo2" src={baseConteudo2}/>
-                        <p className="tituloBase2">Lorem ipsum</p>
+                        <h2 className="tituloBase2">Lorem ipsum</h2>
                         <p className="textoBase2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                         <img className="baseConteudo4" src={baseConteudo4}/>
-                        <p className="tituloBase4">Lorem ipsum</p>
+                        <h2 className="tituloBase4">Lorem ipsum</h2>
                         <p className="textoBase4">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                     </div>
                     <div className="baseTorre">
@@ -103,10 +103,10 @@ function Home(props){
                     </div>
                     <div>
                         <img className="baseConteudo3" src={baseConteudo3}/>
-                        <p className="tituloBase1">Lorem ipsum</p>
+                        <h2 className="tituloBase1">Lorem ipsum</h2>
                         <p className="textoBase1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                         <img className="baseConteudo5" src={baseConteudo5}/>
-                        <p className="tituloBase3">Lorem ipsum</p>
+                        <h2 className="tituloBase3">Lorem ipsum</h2>
                         <p className="textoBase3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                     </div>
 
@@ -114,29 +114,29 @@ function Home(props){
                 
                 </div>
                 <div className="Parte2">
-                    <p className="titParte2">Lorem<br/> ipsum</p>
-                    <p className="subtitParte2">Lorem Ipsum</p>
+                    <h1 className="titParte2">Lorem<br/> ipsum</h1>
+                    <h2 className="subtitParte2">Lorem Ipsum</h2>
                     <p className="subtitParte2Linha"></p>
                     <div className="quadradoParte2">
                         <p className="textParte2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                         <div>
-                            <p className="xx1">XX</p>
-                            <p className="subXX1">Lorem<br/>ipsum</p>
+                            <h1 className="xx1">XX</h1>
+                            <h2 className="subXX1">Lorem<br/>ipsum</h2>
                         </div>
                         <div>
                             <div className="bordaXX2">
-                                <p className="xx2">XX</p>
-                                <p className="subXX2">Lorem ipsum</p>
+                                <h1 className="xx2">XX</h1>
+                                <h2 className="subXX2">Lorem ipsum</h2>
                                 <p className="textXX2">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
                             </div>
                         </div>
                         <div>
-                            <p className="xx3">XX</p>
-                            <p className="subXX3">Lorem<br/>ipsum</p>
+                            <h1 className="xx3">XX</h1>
+                            <h2 className="subXX3">Lorem<br/>ipsum</h2>
                         </div>
                         <div>
-                            <p className="xx4">XX</p>
-                            <p className="subXX4">Lorem ipsum</p>
+                            <h1 className="xx4">XX</h1>
+                            <h2 className="subXX4">Lorem ipsum</h2>
                         </div>
                     </div>
                     <div>
@@ -146,54 +146,54 @@ function Home(props){
                     <div>
                         <div className="LocalParte2">
                             <img className="localIcon" src={local}/>
-                            <p className="titLocal">Lorem ipsum</p>
+                            <h1 className="titLocal">Lorem ipsum</h1>
                             <p className="textLocal">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
                         </div>
                         <div className="Local2Parte2">
                             <img className="localIcon2" src={local}/>
-                            <p className="titLocal2">Lorem ipsum</p>
+                            <h1 className="titLocal2">Lorem ipsum</h1>
                             <p className="textLocal2">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
                         </div>
                     </div>
                 </div>
                 <div className="Parte3">
                     <div>
-                        <p className="subTitleParte3">Lorem ipsum</p>
-                        <p className="titleParte3">Lorem<br/> ipsum</p>
+                        <h2 className="subTitleParte3">Lorem ipsum</h2>
+                        <h1 className="titleParte3">Lorem<br/> ipsum</h1>
                         <div className="subtitParte3Linha"></div>
                         <p className="textParte3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                     </div>
                     <div>
                         <div className="pessoa1">
                             <div className="bola2"></div>
-                            <p className="tituloPessoa1">Lorem ipsum</p>
+                            <h2 className="tituloPessoa1">Lorem ipsum</h2>
                             <p className="textoPessoa1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
                         <div className="pessoa2">
                             <div className="bola2"></div>
-                            <p className="tituloPessoa1">Lorem ipsum</p>
+                            <h2 className="tituloPessoa1">Lorem ipsum</h2>
                             <p className="textoPessoa1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
                         <div className="pessoa3">
                             <div className="bola2"></div>
-                            <p className="tituloPessoa1">Lorem ipsum</p>
+                            <h2 className="tituloPessoa1">Lorem ipsum</h2>
                             <p className="textoPessoa1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
                     </div>
                     <div>
                         <div className="pessoa4">
                             <div className="bola2"></div>
-                            <p className="tituloPessoa1">Lorem ipsum</p>
+                            <h2 className="tituloPessoa1">Lorem ipsum</h2>
                             <p className="textoPessoa1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
                         <div className="pessoa5">
                             <div className="bola2"></div>
-                            <p className="tituloPessoa1">Lorem ipsum</p>
+                            <h2 className="tituloPessoa1">Lorem ipsum</h2>
                             <p className="textoPessoa1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
                         <div className="pessoa6">
                             <div className="bola2"></div>
-                            <p className="tituloPessoa1">Lorem ipsum</p>
+                            <h2 className="tituloPessoa1">Lorem ipsum</h2>
                             <p className="textoPessoa1">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                         </div>
                     </div>
@@ -202,24 +202,24 @@ function Home(props){
                     </div>
                 </div>
                 <div className="Parte4">
-                    <p className="tituloParte4">Lorem <b className="tituloGrandeParte4">Ipsun dolor</b> sit amet</p>
+                    <h1 className="tituloParte4">Lorem <b className="tituloGrandeParte4">Ipsun dolor</b> sit amet</h1>
                 </div>
                 <div className="Parte5">
                     <div>
                         <img className="logoRedonda" src={logoredonda}/>
-                        <p className="tituloParte5">Lorem ipsum dolor</p>
+                        <h1 className="tituloParte5">Lorem ipsum dolor</h1>
                         <p className="textoParte5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum porta arcu vel vulputate.</p>
                     </div>
                     <div>
                         <div className="imgProduto"></div>
                         <div>
                             <p className="descProduto"><b>Lorem ipsum dolor:</b> sit amet, consectetur adipiscing</p>
-                            <p className="tituloProduto">Lorem ipsum</p>
-                            <p className="precoProduto">XXX.XXX</p>
-                            <p className="desc2Produto">Lorem ipsum</p>
+                            <h1 className="tituloProduto">Lorem ipsum</h1>
+                            <h1 className="precoProduto">XXX.XXX</h1>
+                            <h2 className="desc2Produto">Lorem ipsum</h2>
                             <div className="linhaProduto"></div>
-                            <p className="precoProduto2">XXX%</p>
-                            <p className="desc3Produto">Lorem ipsum</p>
+                            <h1 className="precoProduto2">XXX%</h1>
+                            <h2 className="desc3Produto">Lorem ipsum</h2>
                             <p className="desc4Produto"><b>Lorem Ipsum:</b> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         </div>
                     </div>
@@ -227,19 +227,19 @@ function Home(props){
                 <div className="Parte6">
                     <div>
                         <img className="logoRedonda" src={logoredonda}/>
-                        <p className="tituloParte5">Lorem ipsum dolor</p>
+                        <h1 className="tituloParte5">Lorem ipsum dolor</h1>
                         <p className="textoParte5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum porta arcu vel vulputate.</p>
                     </div>
                     <div>
                         <div className="img2Produto"></div>
                         <div>
                             <p className="descProduto"><b>Lorem ipsum dolor:</b> sit amet, consectetur adipiscing</p>
-                            <p className="tituloProduto">Lorem ipsum</p>
-                            <p className="precoProduto">XXX.XXX</p>
-                            <p className="desc2Produto">Lorem ipsum</p>
+                            <h1 className="tituloProduto">Lorem ipsum</h1>
+                            <h1 className="precoProduto">XXX.XXX</h1>
+                            <h2 className="desc2Produto">Lorem ipsum</h2>
                             <div className="linhaProduto"></div>
-                            <p className="precoProduto2">XXX%</p>
-                            <p className="desc3Produto">Lorem ipsum</p>
+                            <h1 className="precoProduto2">XXX%</h1>
+                            <h2 className="desc3Produto">Lorem ipsum</h2>
                             <p className="desc4Produto"><b>Lorem Ipsum:</b> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         </div>
                     </div>
@@ -247,19 +247,19 @@ function Home(props){
                 <div className="Parte7">
                     <div>
                         <img className="logoRedonda" src={logoredonda}/>
-                        <p className="tituloParte5">Lorem ipsum dolor</p>
+                        <h1 className="tituloParte5">Lorem ipsum dolor</h1>
                         <p className="textoParte5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum porta arcu vel vulputate.</p>
                     </div>
                     <div>
                         <div className="imgProduto"></div>
                         <div>
                             <p className="descProduto"><b>Lorem ipsum dolor:</b> sit amet, consectetur adipiscing</p>
-                            <p className="tituloProduto">Lorem ipsum</p>
-                            <p className="precoProduto">XXX.XXX</p>
-                            <p className="desc2Produto">Lorem ipsum</p>
+                            <h1 className="tituloProduto">Lorem ipsum</h1>
+                            <h1 className="precoProduto">XXX.XXX</h1>
+                            <h2 className="desc2Produto">Lorem ipsum</h2>
                             <div className="linhaProduto"></div>
-                            <p className="precoProduto2">XXX%</p>
-                            <p className="desc3Produto">Lorem ipsum</p>
+                            <h1 className="precoProduto2">XXX%</h1>
+                            <h2 className="desc3Produto">Lorem ipsum</h2>
                             <p className="desc4Produto"><b>Lorem Ipsum:</b> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         </div>
                     </div>
@@ -267,28 +267,28 @@ function Home(props){
                 <div className="Parte8">
                     <div>
                         <img className="logoRedonda" src={logoredonda}/>
-                        <p className="tituloParte5">Lorem ipsum dolor</p>
+                        <h1 className="tituloParte5">Lorem ipsum dolor</h1>
                         <p className="textoParte5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum porta arcu vel vulputate.</p>
                     </div>
                     <div>
                         <div className="img2Produto"></div>
                         <div>
                             <p className="descProduto"><b>Lorem ipsum dolor:</b> sit amet, consectetur adipiscing</p>
-                            <p className="tituloProduto">Lorem ipsum</p>
-                            <p className="precoProduto">XXX.XXX</p>
-                            <p className="desc2Produto">Lorem ipsum</p>
+                            <h1 className="tituloProduto">Lorem ipsum</h1>
+                            <h1 className="precoProduto">XXX.XXX</h1>
+                            <h2 className="desc2Produto">Lorem ipsum</h2>
                             <div className="linhaProduto"></div>
-                            <p className="precoProduto2">XXX%</p>
-                            <p className="desc3Produto">Lorem ipsum</p>
+                            <h1 className="precoProduto2">XXX%</h1>
+                            <h2 className="desc3Produto">Lorem ipsum</h2>
                             <p className="desc4Produto"><b>Lorem Ipsum:</b> dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                         </div>
                     </div>
                 </div>
                 <div className="Parte9">
                     <img className="homem" src={homem}/>
-                    <div className="tituloParte9">Lorem ipsum</div>
-                    <div className="subtituloParte9">Lorem ipsum</div>
-                    <div className="textoParte9">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum porta arcu vel vulputate. Morbi quis egestas dui. Integer nibh mauris, pulvinar eu tempus eget, facilisis et nunc.</div>
+                    <h1 className="tituloParte9">Lorem ipsum</h1>
+                    <h2 className="subtituloParte9">Lorem ipsum</h2>
+                    <p className="textoParte9">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis interdum porta arcu vel vulputate. Morbi quis egestas dui. Integer nibh mauris, pulvinar eu tempus eget, facilisis et nunc.</p>
                     <div className="formularioParte9">
                             <form action="submit">
                                 <input className="inputs1Parte9" type="text" value="Nome" id="nome" />
